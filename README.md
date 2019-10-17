@@ -28,3 +28,4 @@ Last Updated: Oct 16, 2019
 # Helpful Links
  - https://github.com/leapmotion/ProjectNorthStar/
  - https://leapmotion.github.io/ProjectNorthStar/
+ - [North Star Discord Community Forum](https://discord.gg/ATPm9Fy)
