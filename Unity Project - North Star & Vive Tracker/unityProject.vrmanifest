@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.northstar1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\studio\\Documents\\Gray\\north star 1\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "north star 1 [Testing]"
+        }
+      }
+    }
+  ]
+}
